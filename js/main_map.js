@@ -141,5 +141,17 @@ map.addLayer(heat2);
 	}
 
 
+  var marker = L.marker([59.2957067310101, 24.102625450014713], {
+      rotationAngle: 45,
+      opacity: 0.5,
+      icon: new L.icon({
+        iconUrl: 'images/drop-transparent.png',
+
+        iconSize:     [39/2, 57/2], // size of the icon
+        iconAnchor:   [39/2, 57/2], // point of the icon which will correspond to marker's location
+        shadowAnchor: [4, 62],  // the same for the shadow
+        popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+      })
+  }).addTo(map);
 });
 
