@@ -60,7 +60,7 @@ $(document).ready(function(){
             },
     	});
 
-    	HM_Control.addOverlay(my_json, "Windmill parks");
+    	HM_Control.addOverlay(my_json, "<span class='legend_windmill'>Windfarms  <img src='images/windmill5_6.png' width='20px' heigh='20px' /></span>");
 	    my_json.addTo(map)
     });
 
@@ -130,7 +130,7 @@ $(document).ready(function(){
 			
 			showObservationHeatmap(observationData, value + "");
 			showRadarHeatmap(radarData, value + "");
-			$('#daterange').html("<i>" + value + "</i>");
+			$('#daterange').html("" + value + "");
 		}
 	));
 
@@ -164,7 +164,7 @@ $(document).ready(function(){
       if (!heat2) {
         heat2 = L.heatLayer(coordList,options_manualObs);
         map.addLayer(heat2);
-        HM_Control.addOverlay(heat2, "Manual bird observations");
+        HM_Control.addOverlay(heat2, "<span class='legend_manual'>Manual bird observations</span>");
       }
       else {
         heat2.setLatLngs(coordList);
@@ -192,7 +192,7 @@ $(document).ready(function(){
       if (!heat3) {
         heat3 = L.heatLayer(coordList,options_radarObs);
         map.addLayer(heat3);
-        HM_Control.addOverlay(heat3, "Radar bird observations");
+        HM_Control.addOverlay(heat3, "<span class='legend_radar'>Radar bird observations</span>");
       }
       else {
         heat3.setLatLngs(coordList);
