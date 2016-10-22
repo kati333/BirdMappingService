@@ -1,0 +1,668 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.585659,
+                    59.09094100000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tahkuna - 1997 september (x)",
+                "description": "<img src=\"https://lh5.googleusercontent.com/proxy/ktE6RJ-WcCLxG6vZjfecc4fjxeSlPZnEJsRuJEerYjGFyuwIlUr6EeTILzoBveX4dVIJhcRB3IVC2IPRf_LI4e-O-JMTM2pU\" height=\"200\" width=\"auto\" /><br><br>Eesti esimene, 0,15 MW võimsusega tuulik alustas tööd 1997. aasta septembris Hiiumaal Tahkuna neeme tipus.<br><br>www.kultuuri.net",
+                "gx_media_links": "https://lh5.googleusercontent.com/proxy/ktE6RJ-WcCLxG6vZjfecc4fjxeSlPZnEJsRuJEerYjGFyuwIlUr6EeTILzoBveX4dVIJhcRB3IVC2IPRf_LI4e-O-JMTM2pU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.056427,
+                    57.908829,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sääre - 2002 juuli - 2",
+                "description": "Üks kasutatud tuulik, 0,23 MW,               kõrgus 55 m, tiiviku läbimõõt 27 m; loodetav               aastatoodang 750 MWh; OÜ Meritreid."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.505163,
+                    58.565656,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Virtsu - 2002, 11.oktoober - 3+1",
+                "description": "<img src=\"https://lh5.googleusercontent.com/proxy/NqUSjAQ8Pu83FNlXZMFsLuaZHOP_7vTaTkVoca4dcLW9UxFMwY4GiBgnlWqew3VEOJBGyBBKIa4cREqHBg1qYOsKYbosBBqmHCcXFMP02sDGrEr6tiTi__mu\" height=\"200\" width=\"auto\" /><br><br>11. oktoobril, kell 16.00 hakkas tööle Eesti esimene kaasaegne taastuvenergiat tootev tuulepark – Virtsu Tuulepark<br>Virtsu Tuulepark on OÜ Roheline Ring, Eesti Energia AS-i ja Saksa elektrituulikute tootja Enercon GmbH ühisprojekt. Tuulepargi kolme tuuliku koguvõimsus on 1,8 MW ja planeeritud energiatoodang aastas on 4,8 GWh.<br>2008. aastal lisandus 1 tuulegeneraator 0,8 MW",
+                "gx_media_links": "https://lh5.googleusercontent.com/proxy/NqUSjAQ8Pu83FNlXZMFsLuaZHOP_7vTaTkVoca4dcLW9UxFMwY4GiBgnlWqew3VEOJBGyBBKIa4cREqHBg1qYOsKYbosBBqmHCcXFMP02sDGrEr6tiTi__mu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.046154,
+                    59.380436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pakri - 2004, 15. detsember - 8",
+                "description": "<img src=\"https://lh4.googleusercontent.com/proxy/MyGXUfxDDo3L_HRM0c1iXIgMqttDkC0b8q__Dxn89DsrDy1uTQC8PHi2IFNdr467qQSBri6WYyahKqAEL9zZE1U6q3CiXjD1Ew\" height=\"200\" width=\"auto\" /><br><br>Esimene tuulik ühendati elektrivõrguga 15. detsember2004. Täisvõimuse saavutas tuulepark märtsis 2005. Projektiettevalmistusega tegeles AS Tuulepargid, kes jätkas kaprojektijuhtimist tuulepargi ehitusfaasis. Elektrituulikute tootja jatarnija on tuntud Saksa tootja Nordex Energy GmbH (http://www.nordex.de/). Tuulepargi ehituse projektijuht oli EPC Consulting (http://www.epc-consulting.dk/).<br><br><br><br><br><br><br><br>2004 mais omandas Pakri Tuulepargi Norraenergiafirma Vardar. Hiljem moodus Vardar spetsiaalse ettevõtte Baltiriikide ja Loode Venemaa taastuvenergia turul osalemiseks - VardarEurus AS. <br><br><br><br><br><br><br><br>OÜ Pakri Tuulepark osanikeks on 90%-lise osalusega Vardar Eurus AS ja 10%-lise osalusega Freenergy AS.<br><br><br><br><br><br><br><br>Pakri tuulepargi kogumaksumus on ligikaudu 24 miljonit Eurot, millestvaldava enamuse ca 87% moodustab tuulikute, nende vundamentide japaigalduse maksumus.<br><br><br><br><br><br><br><br>Pakri tuulepargis on kokku kaheksa 2,3 MW võimsusegaNordex N-90 tüüpi tuulegeneraatorit. Seega on tuulepargi koguvõimsus18,4 MW.<br><br><br><br><br><br><br><br>Tuulepargi aastane elektritoodang u. 56 GWh vastabu. 1% Eesti elektritarbest ning annab panuse saavutamaks Eestiriiklikku eesmärki tõsta taastuvelektri osakaal 5,1 protsendinielektrienergia lõpptarbimisest aastaks 2010.",
+                "gx_media_links": "https://lh4.googleusercontent.com/proxy/MyGXUfxDDo3L_HRM0c1iXIgMqttDkC0b8q__Dxn89DsrDy1uTQC8PHi2IFNdr467qQSBri6WYyahKqAEL9zZE1U6q3CiXjD1Ew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.314289,
+                    59.409189999999995,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Türisalu-Naage - 2005 - 1",
+                "description": "0.125 MW Vello Madiberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.367676,
+                    59.434252,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vääna-Viti .2005 - 1",
+                "description": "0.100 MW Eraomanik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.543701,
+                    58.636399000000004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rõuste - 2005, 30. september - 4",
+                "description": "Kokku on neli E70 tüüpi tuulikut,\" ütles OÜRoheline Ring juhatuse liige Ants Ink. Ühe tuuliku võimsus on 2MW,kõrgus 85 m. Pargi koguvõimsus 8 MW katab 3000 inimese energiavajaduse— nii palju on elanikke näiteks Lihula vallas.<br>Esivere tuulepark maksis 138 miljonit krooni javalmis nelja riigi koostöös. Roheline Ring ostis tuulikud maailma üheltoma ala tipptegijalt Saksa firmalt Enercon GmbH, kes oli tuulepargipeatöövõtja."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.248688,
+                    58.167081,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Salme - 2005, 8.oktoober - 6",
+                "description": "AS Telewind'i tuulepark valmis \t <br>  \tLaupäeval (08.10) märgib AS Telewind külalistele avatud, nn. lahtiste uste päevaga, Salmele rajatud kuue (6) tuulegeneraatoriga tuulepargi valmimist.<br><br>Ettevõtte üks tegevjuhtidest, Oleg Sõnajalg ütles raadio Kadile, et generaatorite koguvõimsus on kokku 3 mW, ehk 3000 kW. Aastas toodetakse seega ca' 8 miljonit kilovatt-tundi elektrienergiat, millega võiks optimaalsetel tingimustel suuta elektriga varustada kogu Kuressaare linna. <br><br> <br><br> <br><br><br><br> <br> <br><br>Laupäeval (08.10) märgib AS Telewind külalistele avatud, nn. lahtiste<br>uste päevaga, Salmele rajatud kuue (6) tuulegeneraatoriga tuulepargi<br>valmimist. <br><br><br>Ettevõtte üks tegevjuhtidest, Oleg Sõnajalg ütles raadio Kadile, et<br>generaatorite koguvõimsus on kokku 3 mW, ehk 3000 kW. Aastas toodetakse<br>seega ca' 8 miljonit kilovatt-tundi elektrienergiat, millega võiks<br>optimaalsetel tingimustel suuta elektriga varustada kogu Kuressaare<br>linna."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.298523,
+                    58.32103,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sangla - 2007 - 1",
+                "description": "0,5 MW  \tSangla Turvas AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.38636,
+                    58.228415,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nasva - 2007 - 2",
+                "description": "1,6 MW  \tOÜ Baltic Wind Energy<br>2*0,8 MW Enercon E-48 tuulikut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.010508000000005,
+                    57.978892,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Türju - 2007 - 1",
+                "description": "0,3 MW  \tOÜ Rotorline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.746559,
+                    59.448304,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Viru-Nigula 2007, 9. märts - 8",
+                "description": "Tuulepargi planeerimist ja projekteerimist alustaskolm aastat tagasi Soome-Saksa eraisikutele kuuluv ettevõte InterconEnergy OÜ. Tänase seisuga on 24 MW tuulepargi rajamiseks jaelektritootmiseks asutatud spetsiaalne ettevõte OÜ Viru-NigulaTuulepark.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Olles seljatanud kõik ettevalmistustööd(keskkonnamõjude hindamine, detailplaneering, ehitusprojekt,ehitusluba, spetsiaalsed tuulemõõtmised kolmel kõrgusel - 30/55/70 m,energiatoodangu prognoosid, liitumisleping elektrivõrguga, energiaostu-müügileping, hoonestusõiguslepingud maaomanikega, tarnelepingtuulikutootjaga), on käsil tuulikute püstitamine. Tuulepark valmib2007.a. esimeses kvartalis.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Mais 2005 omandas Norra energeetika ettevõte VardarEurus AS 100%-lise osaluse OÜ-s Viru-Nigula Tuulepark. Peale sedatasuti koheselt ka sissemaksed elektrivõrgu ettevõttele OÜ-le Põhivõrkja tuulikute tootjale Winwind OY (http://www.winwind.fi/). Sellega anti ka avalöök ehitusetapile.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Projekti koguinvesteering on 26,1 mln EUR.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vardar Eurus AS kuulub 70 % ulatuses Norraenergiafirmale Vardar AS ja 30% ulatuses põhjamaade keskkonnainvesteeringute fondile NEFCO. Vardar Eurusele kuulub ka Eestisuurim töötav tuulepark – Pakri Tuulepark (18,4 MW, vt. lisawww.pakri-tp.ee).<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Viru-Nigula tuuleparki rajatakse 8tuulegeneraatorit, igaüks võimsusega 3 MW. Tuulepargi aastasekstoodanguks prognoositakse 64 GWh."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.248787,
+                    57.782023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sjustaka - 2007, 19.november - 1",
+                "description": "0,15 MW  \tEesti Energia AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.388519,
+                    59.29254000000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osmussaar - 2008 - 1",
+                "description": "Eesti Piirivalve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.516922,
+                    58.58221399999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Virtsu II - 2008, 28.oktoober - 3",
+                "description": "Virtsu tuuleparki püstitatakse 3 Enerconi tuulikut. Ühe generaatorivõimus on 2,3 MW. Tuulepargi kogutoodanguks on 21 GWh aastas. <br><br>OÜ Harington enamusomanik (80%) on eesti äriühing AS Freenergy. 20% omab Estfish-Export OÜ.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Tuulepargi koguinvesteering on 7,8 mln EUR."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.554001,
+                    58.62728500000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Esivere I - 2008 - 4",
+                "description": "12 MW  \tSkinest Energia AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59314,
+                    59.074448,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aulepa - 2009, 16.juuni - 13",
+                "description": "Vastvalminud tuulepargi võimsus on 39 megavatti (MW). Tuulepargis on 13tuulikut, iga tuuliku elektritootmise võimsus on 3 MW. Aulepatuulepargi juhatuse liige ja projektijuht Sven Aasa nimetas tuulepargivalmimisprotsessi ladusaks ja hindas kõrgelt kõikide osapooltekoostööd: „Möödunud aasta jaanuaris alanud tuulepargi rajamistööd onkulgenud tõrgeteta“.<br><br>Aulepa tuulepargi aastane toodang on ca 100gigavatt-tundi (GWh) ehk 1,3 protsenti elektri lõpptarbimisest Eestis.Nii palju elektrit vajab aastas umbes 35 000 Eesti peret. Projektikogumaksumuseks on ligi 900 miljonit krooni ja selle rahastamine toimusEesti Energia omavahenditest. Ehitustööde peatöövõtjaks oli Soometuulikutootja Winwind OY<br>Aulepa tuulepargi tuulikutetehnilise kontrolli käigus selgus, et kohalikke elanikkehäirivate helide põhjuseks on osade tuulikute vigasedmehaanilised pidurid, mille Eesti Energia lubab lähiajal väljavahetada."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.038258,
+                    59.38428300000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pakri - 22",
+                "description": "Pakri tuulepargi laiendus - 8 tuulegeneraatorile lisandub veel 22 tuulegeneraatorit.<br>OÜ Paldiski Tuulepark kanti äriühinguna äriregistrisse 25.09.2002.a.Paldiski tuulepargi osanikud on 30%-lise osalusega Freenergy AS,20%-lise osalusega Vardar AS ja 50%-lise osalusega Eurodigit OÜ.<br>50.6 MW            OÜ Nordest Tuulepark/Nelja Energia OÜ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.599319,
+                    59.086444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aulepa II - 3",
+                "description": "9 MW  \tEesti Energia AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.868782,
+                    59.455544999999994,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aseri - 8",
+                "description": "Aseri  tuulepark  \t24 MW  \tAS Windest Green Energy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.673874,
+                    59.400889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Päite-Vaivina - 21",
+                "description": "63 MW  \tEst-Wind Power OÜ/ OÜ Raisner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.832047,
+                    59.46827999999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aseriaru - 3",
+                "description": "3.6 MW  \tOÜ Irbeni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.989245,
+                    59.435562000000004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Purtse - 43",
+                "description": "40 MW+(46 MW)  \tAS Raunistal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.917805,
+                    59.394117,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Udria - ",
+                "description": "40 MW  \tAS Raunistal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.316177,
+                    59.394597000000005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Türisalu - 13",
+                "description": "22 MW  \tTuuleenergia OÜ/ Tuulepargid AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.689957,
+                    58.480773000000006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tamba - 2",
+                "description": "6 MW  \tTuuleenergia OÜ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.708153,
+                    58.43623300000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mäli - 4",
+                "description": "12 MW  \tTuuleenergia OÜ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.752151,
+                    59.293592,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Narva I - 17",
+                "description": "Tulevikus plaanib Eesti Energia suletud tuhavälja alalerajada 17 tuulikuga tuulepargi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.69722,
+                    59.31567400000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Narva II - 21",
+                "description": "42 MW  \tEesti Energia AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.516235,
+                    58.639079,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tooma - 6",
+                "description": "24 MW  \tTooma Tuulepark OÜ/ Nelja Energia OÜ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.503605,
+                    58.283147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sikassaare - 3",
+                "description": "1,98 MW  \tOÜ Stacey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.878395000000005,
+                    59.453452000000006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Aseri - 1",
+                "description": "3 MW  \tIntercon Energy OÜ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.358307,
+                    58.571116999999994,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Võiküla",
+                "description": "Estwind Energy soovib Muhu vallavolikogu novembri istungilvastu võetud määruse tühistamist, kuna üldplaneering ei võimaldaettevõttel Võikülas tuuleparki rajada. Üldplaneering välistastuulepargi rajamise, kuna see on kavandatud väärtuslikelemaastikele.<br>Estwind Energy esitas taotluse Võikülas tuulepargi rajamiseks juba vallavolikogu eelmise koosseisu ajal. Tuulepargivõimsuseks on planeeritud 9 MW."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.244965,
+                    59.21109400000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kullenga - 3",
+                "description": "1,8 MW  \tWindpower Eesti OÜ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.691086,
+                    58.345902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tammuru - 5",
+                "description": "15 MW  \tElektri Energia AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.587402,
+                    58.419696,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sauga - 25",
+                "description": "Esialgse idee kohaselt plaanitakse küla põldudele püstitadakuni 25 tuulikut, mille tornidel on kõrgust kuni 100 meetrit javõimsust kaks-kolm megavatti. Seega kujuneks pargikoguvõimsuseks kuni 75 megavatti.<br>\"Edasine areng sõltub Eesti Energia poolse liitumispunktiväljaehitamisest,\" rääkis OÜ Eurowind juhatuse esimees AndresSõnajalg. Lepingu kohaselt on energiafirmal selleks aega 30kuud."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.547089,
+                    59.490946,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kunda - 2011? - 3",
+                "description": "Oceanside OÜ on asutatud 2004.a. detsembriseesmärgiga alustada 6,9 MW tuulepargi ehitamist Lääne-Virumaale, Kundalinna haldusterritooriumil.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Oceanside OÜ põhitegevuseks 2005.a. oli tuulepargiplaneeringuala ettevalmistamine detailplaneeringuks ja keskkonnamõjudehindamise protseduuri (SMH) läbiviimiseks. Nii detailplaneering kui kastrateegiline keskkonnamõjude hindamine viidi läbi ettevõtte poolt OÜHendrikson & Ko.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Eesti Energia on kinnitanud turbiinide ühendamiseoma jaotusvõrguga Kunda alajaamas. Käsil on kaabli sobiva paigutuskohaleidmine tuulepargist Kunda alajaama.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Oceanside OÜ enamusosanikuks on Freenergy AS. Tuulepargi koguinvesteering on 7,9 mln EUR.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Kunda tuuleparki on planeeritud püstitada 3tuulegeneraatorit, igaüks võimsusega 2,3 MW. Tuulepargi aastasekskogutoodanguks pronoositakse ca 19 MWh.<br><br><br><br><br><br><br><br>    Ojaküla tuulepark peaks valmima 2011. aastal ning arendajainvesteerib projekti ligi 150 miljonit krooni.<br><br><br><br><br><br><br><br>    Nelja Energia omanikeks on võrdsete osalustega OÜ Solarcomning OÜ Partners Investments Eestis ja Norra ettevõte VardarEurus AS."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.566757,
+                    59.373791,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Konju - ",
+                "description": "Perekond Sõnajala firma RohelineElekter AS kavandab Ida-Virumaale Toila valda 500-megavatisevõimsusega tuuleparki.<br>Roheline Elekter kuulub laia profiiliga ärimeeste Oleg jaAndres Sõnajala juhitavale firmale Eesti Elekter AS. EestiElektri ainuomanikuks on ajakirjanduse andmeil Viivi ja SiiriSõnajala ema Elvi Maripuu firma OÜ Dynastia."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.445068,
+                    58.277732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Unimäe - 8",
+                "description": "Saaremaale Unimäe tuuleparkikavandav Timothy OÜ pöördus Kaarma vallavalitsuse poolekompromissettepanekutega, mis näevad muuhulgas ette katuulegeneraatorite arvu vähendamist<br>Algselt oli Kuressaare külje alla Unimäele planeeritudkaheksa elektrituulikut. Plaanile olid külaelanikud vastu,viidates tervise kahjustumisele. <br>Alates möödunud aasta oktoobrist on OÜ Timothy osanikudvõrdselt 500.000 krooniga Mati Väärtnõule kuuluv Baltic Watch OÜja Sõnajalgade firma AS Eesti Elekter."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.763138,
+                    59.36224500000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Vaivara - ",
+                "description": "150 MW  \tOÜ Raisner (Iberdrola)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.365616,
+                    58.417179,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Audru ",
+                "description": "20 MW  \tOÜ Baltic Wind Energy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.840576,
+                    58.794536,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hiiumaa",
+                "description": "Mullu sügisel Hiiumaale 500-megavatise tuulepargi ehitusestteatanud Raunisaare omanikud on Ülo ja Guido Pärnitsale kuuluvAS Mainor ja Kanadas registreeritud Greta Energy Inc.Ajakirjandus on Greta Energy omanikke seostanud ka Venekapitaliga."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.258301,
+                    59.057506000000004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hiiumaa offshore - 200",
+                "description": "OÜ Nelja Energia alustas Hiiumaa avamere tuulepargiarendust 2006 aastal. Samal aastal algatas Keskkonnaministeerium NeljaEnergia vee-erikasutusloa avalduse alusel avamere tuulepargikeskkonnamõjude hindamise ning moodustati ka spetsiaalne projektiettevõte - Hiiumaa Offshore Tuulepark OÜ.<br><br>Merre asetatakse kaalalisvoolu merekaabel tuulepargist kuni selle ühendamiseni AS-i EestiEnergia Põhivõrk Harku alajaama lähistel ja Rootsi suundadel.Alternatiivina hinnatakse võimalust ühendada merekaabel Lihulaalajaama. Keskkonnamõju hindamise käigus hinnatakse Rootsi suunalistkaablit kuni Eesti territoriaalmere piirini.<br><br>Tuulepargi rajamineon kavandatud etapiviisiliselt alustades aastal 2010. Vastava suurusegaavamere tuulepargi ehitamiseks kulub kuni 3 aastat. Tuulikuteprojekteeritud eluiga on 20 aastat.<br><br>Hiiumaa Offshore Tuulepark OÜ osanikeks on 45%-liseosalusega Norras registreeritud ettevõte Vardar Eurus AS, 45%-liseosalusega Eestis registreeritud ettevõte Freenergy AS ja 10%-liseosalusega Eestis registreeritud äriühing Nelja Energia OÜ.<br>Hiiumaa Offshore tuuleparki on planeeritud püstitadaca 200 tuulegeneraatorit. Tuulikute ühikvõimsus on 3-6 MW, masti kõrgusja tiiviku läbimõõt on umbes 125 m. Tuulepargi kavandatav koguvõimsuson ca 600-1000 MW ja vastav aastatoodang 2-3,5 TWh/a. Lõplikkoguvõimsus ja aastatoodang sõltub elektrituulikute valikust jaasetusest."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.400879,
+                    59.28131700000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Neugrund -",
+                "description": "100 - 200 MW \tOÜ Neugrund"
+            }
+        }
+    ]
+}
