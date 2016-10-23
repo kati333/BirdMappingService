@@ -137,7 +137,37 @@ $(document).ready(function(){
 			//if(value >= 32) continue;	
 			showRadarHeatmap(radarData, value + "");
 
-			$('#daterange').html("" + value + "");
+			var month;
+			if(value===18) {month="May";}
+			else if(value===19) {month="May";}
+			else if(value===20) {month="May";}
+			else if(value===21) {month="May";}
+			else if(value===22) {month="June";}
+			else if(value===23) {month="June";}
+			else if(value===24) {month="June";}
+			else if(value===25) {month="June";}
+			else if(value===26) {month="June";}
+			else if(value===27) {month="July";}
+			else if(value===28) {month="July";}
+			else if(value===29) {month="July";}
+			else if(value===30) {month="July";}
+			else if(value===31) {month="August";}
+			else if(value===32) {month="August";}
+			else if(value===33) {month="August";}
+			else if(value===34) {month="August";}
+			else if(value===35) {month="August";}
+			else if(value===36) {month="September";}
+			else if(value===37) {month="September";}
+			else if(value===38) {month="September";}
+			else if(value===39) {month="September";}
+			else if(value===40) {month="October";}
+			else if(value===41) {month="October";}
+			else if(value===42) {month="October";}
+			else if(value===43) {month="October";}
+			else if(value===44) {month="October";}
+			else {month="May"}
+
+			$('#daterange').html("" + value + " - " + month);
 		}
 	));
 
