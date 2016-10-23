@@ -127,31 +127,21 @@ $(document).ready(function(){
 			point.push(0.8);
 			coordList.push(point);
 		}
-
-
-
-
-		// var coords = data.adj_coords;
-		// var c2 = [];
-		// for(var i = 0; i<1300; i++) {
-		// 	var t  = coords[i][0];
-		// 	coords[i][0]=coords[i][1];
-		// 	coords[i][1]=t;
-		// 	coords[i].push(0.9);
-		// 	c2.push(coords[i]);
-		// }
-
 		
-		if(heat2) {
-			map.removeLayer(heat2);
-			HM_Control.removeLayer(heat2);
-		}
-		heat2 = L.heatLayer(coordList,options_manualObs);
-	    map.addLayer(heat2);
-		// map.addData(geojsonFeature);
-
-    	
-		HM_Control.addOverlay(heat2, "Manual bird observations");
+		// if(heat2) {
+			// map.removeLayer(heat2);
+			// HM_Control.removeLayer(heat2);
+		// }
+    
+      if (!heat2) {
+        heat2 = L.heatLayer(coordList,options_manualObs);
+        map.addLayer(heat2);
+        HM_Control.addOverlay(heat2, "Manual bird observations");
+      }
+      else {
+        heat2.setLatLngs(coordList);
+      }
+  
 
 	}
 
