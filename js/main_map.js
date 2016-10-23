@@ -11,11 +11,11 @@ $(document).ready(function(){
     var options_manualObs = {
 		minOpacity: 0.7,
 		maxzoom: 16,
-		radius: 5,
+		radius: 10,
 		blur: 15,
 		 // larger scale radius 20 and blur 25, zoom 16. 
-		gradient: { .6:"#7bccc4",.7:"#4eb3d3",.8:"#2b8cbe",.9:"#0868ac",1:"#084081" }
-		// gradient: { .7:"#7bccc4",.8:"#e0f3db", .9:"#2b8cbe", 1:"#0a222e" }
+		// gradient: { .6:"#7bccc4",.7:"#4eb3d3",.8:"#2b8cbe",.9:"#0868ac",1:"#084081" }
+		gradient: { .7:"#7bccc4",.8:"#e0f3db", .9:"#2b8cbe", 1:"#0a222e" }
 		// gradient: { .7:"#7bccc4",.9:"#e0f3db", 1:"#2b8cbe" }
 		// gradient: { .2:"#7bccc4",.3:"#80cdc1", 1:"#018571" }
 	};
