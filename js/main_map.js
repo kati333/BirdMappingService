@@ -48,6 +48,9 @@ $(document).ready(function(){
 	    my_json.addTo(map)
     });
 
+	var observationData;
+	
+	
 	$.ajax({
 		context: this,
 		type: 'GET',
@@ -55,7 +58,8 @@ $(document).ready(function(){
 		url: 'data/data.geojson',
 		timeout: 15000,
 		success: function(data, textStatus, jqXHR){
-			showObservationHeatmap(data);
+			observationData = data;
+			showObservationHeatmap(data,18);
 
 
 		},
@@ -67,22 +71,25 @@ $(document).ready(function(){
 		},
 	});
 	// var axis = d3.svg.axis().orient("up").ticks(4);
+	
 	var timeSlider, preValue;
 	preValue = 0;
-	d3.select('#slider').call(d3.slider().axis(true).min(0).max(150).step(15)
+	d3.select('#slider').call(d3.slider().axis(true).min(18).max(43).step(1)
 		.on("slide", function(evt, value){
 			// console.log(evt);
 			console.log(value);
 
-			var filterData;
+			//var filterData;
 
-			if(value !== preValue){
-				updateObservationHeatmap(data);
-				preValue = value;
-			}
-			filterData = filterObservations(value,data);
-			updateObservationHeatmap(filterData);
-
+			// if(value !== preValue){
+				// updateObservationHeatmap(data);
+				// preValue = value;
+			// }
+			//filterData = filterObservations(value,data);
+			//updateObservationHeatmap(filterData);
+			
+			showObservationHeatmap(observationData, value + "")
+			
 			$('#daterange').html("<i>" + value + "</i>");
 		}
 	));
@@ -92,26 +99,31 @@ $(document).ready(function(){
 
 
 
+/* 	function weekFilter(feature,value){
+		if(feature.properties.week == value) return true
+	} */
 	
 	// functions
 	function filterObservations(value,data){
-
+		
 	}
 
 	function updateObservationHeatmap(data){
 
 	}
-
-	function showObservationHeatmap(data) {
-		console.log(data);
+	
+	var heat2;
+	function showObservationHeatmap(data,week) {
+		console.log("Rendering " + week);
 		var coords = data.features;
-		console.log(coords);
+		//console.log(coords);
 
 		var coordList = [];
 
 		for(var i=0; i < coords.length; i++){
 			var t = coords[i];
-			var point = t["geometry"]["coordinates"];
+			if(t["properties"]["week"] != week) continue;
+				var point = t["geometry"]["coordinates"];
 			point.push(0.8);
 			coordList.push(point);
 		}
@@ -129,12 +141,17 @@ $(document).ready(function(){
 		// 	c2.push(coords[i]);
 		// }
 
-		var heat2 = L.heatLayer(coordList,options_manualObs);
-		map.addLayer(heat2);
-
+		
+		if(heat2) {
+			map.removeLayer(heat2);
+			HM_Control.removeLayer(heat2);
+		}
+		heat2 = L.heatLayer(coordList,options_manualObs);
+	    map.addLayer(heat2);
 		// map.addData(geojsonFeature);
 
-    	HM_Control.addOverlay(heat2, "Manual bird observations");
+    	
+		HM_Control.addOverlay(heat2, "Manual bird observations");
 
 	}
 
