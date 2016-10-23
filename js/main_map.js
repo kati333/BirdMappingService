@@ -98,7 +98,7 @@ $(document).ready(function(){
 			//console.log(data);
 
 			radarData = data;
-			showRadarHeatmap(data,32+"");
+			showRadarHeatmap(data,18+"");
 
 
 		},
