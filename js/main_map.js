@@ -38,7 +38,7 @@ $(document).ready(function(){
 				 var smallIcon = new L.Icon({
 				     iconSize: [20, 20],
 				     iconAnchor: [0, 0],
-				     iconUrl: 'images/windmill5_4.png'
+				     iconUrl: 'images/windmill5_6.png'
 				 });
                 return L.marker(latlng, {icon: smallIcon});
             },
