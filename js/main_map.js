@@ -75,7 +75,7 @@ $(document).ready(function(){
 		timeout: 15000,
 		success: function(data, textStatus, jqXHR){
 			observationData = data;
-			showObservationHeatmap(data,18);
+			showObservationHeatmap(data,18+"");
 
 
 		},
@@ -91,19 +91,23 @@ $(document).ready(function(){
 		context: this,
 		type: 'GET',
 		dataType: "json",
-		url: 'data/testdata.geojson',
+		url: 'data/all_radar.geojson',
 		timeout: 15000,
 		success: function(data, textStatus, jqXHR){
+			console.log(data.length);
+			//console.log(data);
+
 			radarData = data;
-			showRadarHeatmap(data,18);
+			showRadarHeatmap(data,32+"");
 
 
 		},
 		error: function(jqXHR, textStatus, errorThrown){
-			if (textStatus==='timeout'){
+			console.log("Error parsing json: " + textStatus+ "   "+errorThrown);
+			if (textStatus==='timeout'){ 
 				alert("timeout error");
 			}
-			else alert(textStatus);
+			
 		},
 	});
 	// var axis = d3.svg.axis().orient("up").ticks(4);
@@ -129,7 +133,10 @@ $(document).ready(function(){
 			//updateObservationHeatmap(filterData);
 			
 			showObservationHeatmap(observationData, value + "");
+			
+			//if(value >= 32) continue;	
 			showRadarHeatmap(radarData, value + "");
+			
 			$('#daterange').html("<i>" + value + "</i>");
 		}
 	));
@@ -175,28 +182,28 @@ $(document).ready(function(){
 
 	var heat3;
 	function showRadarHeatmap(data,week) {
-		console.log("Rendering radar" + week);
-		var coords = data.features;
-		//console.log(coords);
+			console.log("Rendering radar" + week);
+			var coords = data.features;
+			//console.log(coords);
 
-		var coordList = [];
+			var coordList = [];
 
-		for(var i=0; i < coords.length; i++){
-			var t = coords[i];
-			if(t["properties"]["week"] != week) continue;
-				var point = t["geometry"]["coordinates"];
-			point.push(0.8);
-			coordList.push(point);
-		}
-		    
-      if (!heat3) {
-        heat3 = L.heatLayer(coordList,options_radarObs);
-        map.addLayer(heat3);
-        HM_Control.addOverlay(heat3, "Radar bird observations");
-      }
-      else {
-        heat3.setLatLngs(coordList);
-      }
+			for(var i=0; i < coords.length; i++){
+				var t = coords[i];
+				if(t["properties"]["week"] != week) continue;
+					var point = t["geometry"]["coordinates"];
+				point.push(0.8);
+				coordList.push(point);
+			}
+			    
+	      if (!heat3) {
+	        heat3 = L.heatLayer(coordList,options_radarObs);
+	        map.addLayer(heat3);
+	        HM_Control.addOverlay(heat3, "Radar bird observations");
+	      }
+	      else {
+	        heat3.setLatLngs(coordList);
+	      }
 	}
 
 });
